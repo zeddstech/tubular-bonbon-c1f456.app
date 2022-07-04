@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="110px" viewBox="0 0 107 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>SR</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,0 L97,0 C102.522847,-1.01453063e-15 107,4.4771525 107,10 L107,100 C107,105.522847 102.522847,110 97,110 L92.0084961,110 L92.0084961,110 C74.3611654,94.4166667 61.525,86.625 53.5,86.625 C45.475,86.625 32.6701823,94.4166667 15.0855469,110 L10,110 C4.4771525,110 6.76353751e-16,105.522847 0,100 L0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 Z" id="path-1"></path>
+    </defs>
+    <g id="定稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SR">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="蒙版" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <ellipse id="椭圆形" fill="#E9655C" cx="53.5" cy="44" rx="32.1" ry="33"></ellipse>
+            <text font-family="AvenirNext-DemiBold, Avenir Next" font-size="38" font-weight="500" line-spacing="34" fill="#FFFFFF">
+                <tspan x="31" y="53">SR</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
